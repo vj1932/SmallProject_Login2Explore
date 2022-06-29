@@ -7,12 +7,12 @@ In this Project I have Done Basic of JsonPowerDB Command
 		 
 		 
 **Benifites of JsonPowerDB:**
-	1)High Performance
-	2)Light Weight
-	3)Ajax Enabled
-	4)Serverless
-	5)Simple to Use
-	6) Real-time Database
+	High Performance,
+	Light Weight,
+	Ajax Enabled,
+	Serverless,
+	Simple to Use,
+	Real-time Database
 	
 **Screen-Shot**
 *Here The Some ScreenShot of my Project*
